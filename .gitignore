@@ -1,0 +1,88 @@
+/build.gradle
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/checksums/checksums.lock
+/course-info.yaml
+/course-remote-info.yaml
+/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock
+/.gradle/7.1.1/executionHistory/executionHistory.bin
+/.gradle/7.1.1/executionHistory/executionHistory.lock
+/.gradle/7.1.1/fileHashes/fileHashes.bin
+/.gradle/7.1.1/fileHashes/fileHashes.lock
+/.gradle/7.1.1/dependencies-accessors/gc.properties
+/.gradle/7.1.1/gc.properties
+/.gradle/vcs-1/gc.properties
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/.gradle/7.1.1/fileChanges/last-build.bin
+/Simple Tic-Tac-Toe/lesson-info.yaml
+/.gradle/checksums/md5-checksums.bin
+/.gradle/buildOutputCleanup/outputFiles.bin
+/.gradle/7.1.1/fileHashes/resourceHashesCache.bin
+/settings.gradle
+/.gradle/checksums/sha1-checksums.bin
+/Simple Tic-Tac-Toe/Fight_/task.html
+/Simple Tic-Tac-Toe/First move_/task.html
+/Simple Tic-Tac-Toe/The user is the gamemaster/task.html
+/Simple Tic-Tac-Toe/Welcome to the battlefield_/task.html
+/Simple Tic-Tac-Toe/What's up on the field/task.html
+/Simple Tic-Tac-Toe/Fight_/task-info.yaml
+/Simple Tic-Tac-Toe/First move_/task-info.yaml
+/Simple Tic-Tac-Toe/The user is the gamemaster/task-info.yaml
+/Simple Tic-Tac-Toe/Welcome to the battlefield_/task-info.yaml
+/Simple Tic-Tac-Toe/What's up on the field/task-info.yaml
+/Simple Tic-Tac-Toe/Fight_/task-remote-info.yaml
+/Simple Tic-Tac-Toe/First move_/task-remote-info.yaml
+/Simple Tic-Tac-Toe/The user is the gamemaster/task-remote-info.yaml
+/Simple Tic-Tac-Toe/Welcome to the battlefield_/task-remote-info.yaml
+/Simple Tic-Tac-Toe/What's up on the field/task-remote-info.yaml
+/Simple Tic-Tac-Toe/task/build/classes/java/test/Attach.class
+/Simple Tic-Tac-Toe/task/build/reports/tests/test/css/base-style.css
+/Simple Tic-Tac-Toe/task/build/reports/tests/test/packages/default-package.html
+/Simple Tic-Tac-Toe/task/build/classes/java/test/FieldState.class
+/Simple Tic-Tac-Toe/task/build/reports/tests/test/index.html
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_575273202466624195_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_1095697022303557603_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_1191885258241214228_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_2077482702576762812_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_2265911563408626142_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_2575429636487930716_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_2716069685005758431_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_4324774741411597910_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_4761285941747772131_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_4793719396854676414_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_5646431919776935267_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_5798865724543971097_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_6302712174415906910_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_6551178338854009769_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_7306530902052313465_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_8026681092512491260_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_8206659352040106956_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_8329867122796191525_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_9365214561835213228_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_10188018620156620987_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_10678542554076748337_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_11549845251602330321_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_11820724219760326126_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_12619848934964292610_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_13086991499394523355_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_13771192424557039770_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_14697450102959950626_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_15785951645653671817_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_17221251609186586661_tmp
+/Simple Tic-Tac-Toe/task/build/tmp/test/jar_extract_17288282242070038635_tmp
+/Simple Tic-Tac-Toe/task/out/production/classes/tictactoe/Main.class
+/Simple Tic-Tac-Toe/task/build/test-results/test/binary/output.bin
+/Simple Tic-Tac-Toe/task/build/test-results/test/binary/output.bin.idx
+/Simple Tic-Tac-Toe/task/build/tmp/compileJava/previous-compilation-data.bin
+/Simple Tic-Tac-Toe/task/build/tmp/compileTestJava/previous-compilation-data.bin
+/Simple Tic-Tac-Toe/task/build/reports/tests/test/js/report.js
+/Simple Tic-Tac-Toe/task/build/test-results/test/binary/results.bin
+/Simple Tic-Tac-Toe/task/build/reports/tests/test/css/style.css
+/Simple Tic-Tac-Toe/task/build/test-results/test/TEST-TicTacToeTest.xml
+/Simple Tic-Tac-Toe/task/build/classes/java/test/TicTacToeField.class
+/Simple Tic-Tac-Toe/task/build/classes/java/test/TicTacToeTest.class
+/Simple Tic-Tac-Toe/task/build/reports/tests/test/classes/TicTacToeTest.html
+/Simple Tic-Tac-Toe/task/test/TicTacToeTest.java
